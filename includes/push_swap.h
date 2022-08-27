@@ -75,7 +75,7 @@ void	reverse_ra(t_info *a, int flag);
 void	reverse_rb(t_info *b, int flag);
 void	reverse_rr(t_info *a, t_info *b, int flag);
 
-// ----- SORING ----- //
+// ----- SORTING ----- //
 void	sort_large(t_info *a, t_info *b);
 void	push_to_block(t_info *a, t_info *b);
 void	sort_three(t_info *a);
